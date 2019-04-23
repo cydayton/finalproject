@@ -9,7 +9,7 @@ Stars and constellations are constant and trustworthy regardless from where a pe
 My piece is very user-friendly.  Ideally, it would be set up on a very large screen to make the viewer feel enveloped into the night sky.  There must be a camera that can focus on the viewer's face and pick up details.  Users can wiggle their faces and move around in front of the camera, and the locations of the stars will be reflected on the screen.  My piece should make any viewer feel relaxed which is accomplished through the smooth flow of the stars and the resemblance to a beautiful, clear night sky.
 
 ### Drawing
-![Sketch](assets/sketch.jpg?raw=true "Sketch")
+![Sketch](assets/sketch.JPG?raw=true "Sketch")
 
 
 ### Technical Details
